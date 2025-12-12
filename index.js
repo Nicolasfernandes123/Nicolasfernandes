@@ -119,7 +119,7 @@ return admins
 async function startProo() {
   console.clear();
   console.log(banner.string);
-  console.log(chalk.cyanBright("
+  console.log(chalk.cyanBright("🔵 WealthX iniciado... Aguarde conexão!"));
 
   // Estado de sesión
   const { state, saveCreds } = await useMultiFileAuthState("./session");
