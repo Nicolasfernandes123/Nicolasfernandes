@@ -1,9 +1,9 @@
 <h1 align="center">
-✨🚀 <span style="color:#00FFAA;">NWALTHX< V2/span> 🤖💚
+✨🚀 <span style="color:#00FFAA;">WALTHX< V2/span> 🤖💚
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/0ygy14nq/20251017-152852.jpg" width="300" alt="NaufraBot V2" />
+  <img src="https://i.supaimg.com/972ab90e-8e71-4709-8966-cc6bc0737767.jpg" width="300" alt="NaufraBot V2" />
 </p>
 
 
